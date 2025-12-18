@@ -1,7 +1,7 @@
 // Configurações Globais do Site
 
 // URL do Aplicativo para Download (Link final)
-export const APP_DOWNLOAD_LINK = "https://play.google.com/store/apps/details?id=com.empregofacil.app"; // Substitua pelo link real do seu app
+export const APP_DOWNLOAD_LINK = "https://www.mediafire.com/file/lwo6l7pduy5yfam/Emprego_Facil.apk/file"; // Substitua pelo link real do seu app
 
 // URL do Script do Google Sheets (API)
 // Substitua pela URL gerada no Google Apps Script (Implantar > App da Web)
