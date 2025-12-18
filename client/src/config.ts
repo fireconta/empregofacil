@@ -15,7 +15,7 @@ export const SHARE_MESSAGE = {
 Acabei de encontrar várias vagas abertas perto de mim, para diferentes áreas e níveis de experiência!
 ✅ Cadastro 100% gratuito
 ⚡ Rápido e fácil
-📄 Crie seu currículo online em poucos minutos
+📄 Envie seu currículo online em poucos minutos para milhares de empresas
 📍 Vagas atualizadas todos os dias
 
 ⏳ Não perca tempo! Algumas vagas podem fechar a qualquer momento.
