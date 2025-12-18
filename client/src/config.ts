@@ -19,7 +19,7 @@ Acabei de encontrar várias vagas abertas perto de mim, para diferentes áreas e
 📍 Vagas atualizadas todos os dias
 
 ⏳ Não perca tempo! Algumas vagas podem fechar a qualquer momento.
-  📢 Compartilhe com quem está precisando de emprego!
+📢 Compartilhe com quem está precisando de emprego!
 👉 Acesse agora, faça seu cadastro e garanta sua chance:
 🔗 ",
 };
