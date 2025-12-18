@@ -9,6 +9,17 @@ export const GOOGLE_SCRIPT_URL = "https://script.google.com/macros/s/AKfycbyIpVl
 
 // Mensagem de Compartilhamento Personalizada
 export const SHARE_MESSAGE = {
-  title: "Vagas de Emprego Urgentes! 🚀",
-  text: "Acabei de encontrar várias vagas de emprego na minha região! O cadastro é gratuito e super rápido. Dá uma olhada antes que acabem as vagas:",
+  title: "🚨 VAGAS DE EMPREGO URGENTES NA SUA REGIÃO! 🚀",
+  text: "💼 Está procurando trabalho ou uma nova oportunidade?
+
+Acabei de encontrar várias vagas abertas perto de mim, para diferentes áreas e níveis de experiência!
+✅ Cadastro 100% gratuito
+⚡ Rápido e fácil
+📄 Crie seu currículo online em poucos minutos
+📍 Vagas atualizadas todos os dias
+
+⏳ Não perca tempo! Algumas vagas podem fechar a qualquer momento.
+  📢 Compartilhe com quem está precisando de emprego!
+👉 Acesse agora, faça seu cadastro e garanta sua chance:
+🔗 ",
 };
